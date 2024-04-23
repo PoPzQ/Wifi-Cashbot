@@ -33,7 +33,7 @@ Download:
 - Linux/macOS: wget https://github.com/PoPzQ/Wifi-Cashbot/archive/refs/heads/main.zip && unzip main.zip
 - Windows: Invoke-WebRequest -Uri https://github.com//PoPzQ/Wifi-Cashbot/archive/refs/heads/main.zip -OutFile main.zip; Expand-Archive -Path main.zip -DestinationPath .\
 ## Register:
-- Register accounts on the application websites. [Here's a list of available apps](#supported-apps-heres-a-list-of-available-apps)
+- Register accounts on the application websites. [Here's a list of available apps](#supported-apps)
 ## Run:
 - Linux/Mac: sudo chmod +x runme.sh && ./runme.sh
 - Windows(Powershell): Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Bypass -Force; .\runme.ps1
@@ -45,7 +45,7 @@ Start Earning:
 This ensures continued project development and helps it stay free, for everyone. 
 You also get additional rewards!
 
-## Supported Apps: [Here's a list of available apps]
+## Supported Apps:
 
 - :key: If you are using login with google, remember to set also a password for your app account!
 
