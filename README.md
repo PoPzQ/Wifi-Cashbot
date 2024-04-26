@@ -3,7 +3,7 @@ Leverage unused internet bandwidth to make money with something you have and wou
 
 
 
-### 🤑 This bot features:
+### 🤑 This bot supports:
 - Effortless & Passive Income:
   Sit back and relax while your internet bandwidth racks you up real money.
 - Performance:
