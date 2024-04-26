@@ -72,7 +72,9 @@ Some apps have a 5 IP restriction, use with proxies for more earnings
 
 ### :warning: Disclaimer
 Use the apps responsibly and in accordance with your local laws and internet plan.
-This project is provided without warranty and the founder of this project, MRColorR is not liable for any damages.
+A hosting plan with shared bandwidth means that your bandwidth is split among all users and devices.
+This project is provided without warranty and the founder of this project, mrcolorr is not liable for any damages.
+Download and upload speeds on a shared plan are “up to” a particular limit. 
 ## :hash: License
 GNU General Public License, version 3.0.
 For details, see https://www.gnu.org/licenses/gpl-3.0.html.
