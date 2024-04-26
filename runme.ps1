@@ -134,9 +134,6 @@ $SCRIPT_VERSION = (Get-Content .\${ENV_FILENAME} | Select-String -Pattern "PROJE
 # Script name #
 $SCRIPT_NAME = $MyInvocation.MyCommand.Name # save the script name in a variable, not the full path
 
-# Project Discord URL #
-$DS_PROJECT_SERVER_URL = (Get-Content .\${ENV_FILENAME} | Select-String -Pattern "DS_PROJECT_SERVER_URL=" -SimpleMatch).ToString().Split("=")[1]
-
 # Script URL for update #
 $PROJECT_BRANCH = "main"
 $PROJECT_URL = "https://raw.githubusercontent.com/PoPzQ/Wifi-Cashbot/${PROJECT_BRANCH}"
