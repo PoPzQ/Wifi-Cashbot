@@ -3,7 +3,7 @@
 - Leverage unused internet bandwidth to make money with something you have and would otherwise be wasted.
 
 ## 🤑 This multi-platform, auto-updating Docker stack for passive income applications utilizing unused internet bandwidth features:
-- Effortless & Passive Income: Sit back and relax while your internet bandwidth generates you income.
+- Effortless & Passive Income: Sit back and relax while your internet bandwidth racks you up income.
 - Multi-App Integration for Flexibility: Explore different apps and find the ones bringing you the best returns. 
 - Automatic Updates: Ensure consistently maximized earnings with automatic updates.
 - Web Dashboard: Monitor your progress through clear & insightful performance data.
