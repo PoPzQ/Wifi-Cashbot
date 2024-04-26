@@ -1,4 +1,3 @@
-### Wifi Cashbot 
 Your Easy Automatic Multi Threaded Passive Income Generating Bot
 Leverage unused internet bandwidth to make money with something you have and would otherwise be wasted.
 
