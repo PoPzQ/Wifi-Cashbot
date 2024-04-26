@@ -1,12 +1,12 @@
 ## Your Easy Automatic Multi Threaded Passive Income Generating Bot
-Leverage unused internet bandwidth to make money with something you have and would otherwise be wasted.
+Leverage unused internet bandwidth to make money with something you have and would otherwise be wasted using this multi-platform, auto-updating Docker stack for passive income applications utilizing unused internet bandwidth bot.
 
 
 
-### 🤑 This multi-platform, auto-updating Docker stack for passive income applications utilizing unused internet bandwidth features:
+### 🤑 This bot features:
 - Effortless & Passive Income:
   Sit back and relax while your internet bandwidth racks you up real money.
-- Preformance:
+- Performance:
   Cashbot has the best preformance, more profits, and no slowdowns.
 - Multi-App Integration for Flexibility:
   Easily sign up for different apps with the interface your API key. 
