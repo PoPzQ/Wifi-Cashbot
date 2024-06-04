@@ -1,5 +1,5 @@
 ## Your Easy Automatic Multi Threaded Passive Income Generating Bot
-Leverage unused internet bandwidth to make money with something you have and would otherwise be wasted using this multi-platform, auto-updating Docker stack for passive income applications utilizing unused internet bandwidth bot.
+Leverage unused internet bandwidth to make money with something you have and would otherwise be wasted using this multi-platform, auto-updating Docker stack for passive income applications utilizing your unused internet bandwidth.
 
 
 
