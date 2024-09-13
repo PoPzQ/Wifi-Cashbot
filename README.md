@@ -23,7 +23,7 @@ Leverage unused internet bandwidth to make money with something you have and wou
 
 - Detailed Overview & FAQs:  [Wiki](https://github.com/PoPzQ/Wifi-Cashbot/wiki)
 
-- **Wiki**:  FAQs, alternative Setup, updates information, useful guides & more...
+- **Wiki**:  FAQs, alternative Setup, updates, additional information, useful guides & more...
 
 ## Start Earning Now with Wifi Cashbot 🚀 
 
@@ -48,6 +48,8 @@ Download:
 - Windows(Powershell): Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Bypass -Force; .\runme.ps1
 Start Earning:
 - Passively earn and monitor your performance through the web dashboard.
+
+![Simple Setup](https://github.com/user-attachments/assets/5c92224a-8f06-4ca1-960d-660d0a74c51d)
 
 ## Support Developers, Use Affiliate Links 🙏
 
@@ -82,7 +84,7 @@ Some apps have a 5 IP restriction, use with proxies for more earnings
 ### :warning: Disclaimer
 Use the apps responsibly and in accordance with your local laws and internet plan.
 A hosting plan with shared bandwidth means that your bandwidth is split among all users and devices.
-This project is provided without warranty and the founder of this project, mrcolorr is not liable for any damages.
+This project is provided without warranty and the founder of these projects, mrcolorr is not liable for any damages.
 Download and upload speeds on a shared plan are “up to” a particular limit. 
 ## :hash: License
 GNU General Public License, version 3.0.
