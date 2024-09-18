@@ -90,7 +90,9 @@ Download and upload speeds on a shared plan are “up to” a particular limit.
 GNU General Public License, version 3.0.
 For details, see https://www.gnu.org/licenses/gpl-3.0.html.
 
-Russian:
+
+
+###Russian:
 Ваш Легкий Автоматизированный Многоядерный Бот для Пассивного Дохода
 Используйте неиспользованную пропускную способность интернета для заработка денег с того, что у вас уже есть, используя этот мультиплатформенный, автоматически обновляемый Docker-стек для пассивного дохода.
 
