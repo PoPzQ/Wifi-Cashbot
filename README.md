@@ -21,7 +21,7 @@ Leverage unused internet bandwidth to make money with something you have and wou
 
 #### 🔎 More Details:
 
-- Detailed Overview & FAQs:  [Wiki](https://github.com/PoPzQ/Wifi-Cashbot/wiki)
+- Detailed Overview & FAQs:  [Wiki](https://github.com/PoPzQ/Wifi-Cashbot/wiki) or [YouTube](https://www.youtube.com/watch?v=uXRDNjC-9ME)
 
 - **Wiki**:  FAQs, alternative Setup, updates, additional information, useful guides & more...
 
