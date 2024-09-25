@@ -2,7 +2,6 @@
 Leverage unused internet bandwidth to make money with something you have and would otherwise be wasted using this multi-platform, auto-updating Docker stack for passive income applications utilizing your unused internet bandwidth.
 
 
-
 ### 🤑 This bot supports:
 - Effortless & Passive Income:
   Sit back and relax while your internet bandwidth racks you up real money.
