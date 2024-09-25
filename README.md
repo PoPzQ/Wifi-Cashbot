@@ -35,7 +35,7 @@ Leverage unused internet bandwidth to make money with something you have and wou
 4. **Monitor:**  See how you're doing in the clean and powerful WCB web dashboard.
 
 ## Prerequisites:
-- Ensure you have a 64-bit operating system, virtualization functions are enabled, and Docker is installed and set for automatic startup on system boot.
+- Ensure you have a 64-bit operating system, and virtualization functions are enabled.
 ## Quick Setup Guide:
 Download:
 - Linux/macOS: wget https://github.com/PoPzQ/Wifi-Cashbot/archive/refs/heads/main.zip && unzip main.zip
